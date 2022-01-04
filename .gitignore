@@ -1,0 +1,6 @@
+node_modules
+src/js
+src/scss
+src/assets/img
+package*.json
+gulpfile.js
